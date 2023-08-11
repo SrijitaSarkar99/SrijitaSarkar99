@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @SrijitaSarkar99
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML Projects
+- 👋 Hi, I am Srijita Sarkar
+- 🎓 A postgrad final year student at National Insitute of Technology, Karnataka, India
+- 🎯 Interested in Artificial Intelligence
+- 🌱 Currently, I am learning Ruby on Rails
+- :octocat: I am looking forward to learn and collaborate to ML projects 
+- ⭐ My other interests are art, culture and learning new things like knitting, sculpting, etc. 
 - 📫 You may reach me at srijitasarkar9912@gmail.com
 
 <!---
